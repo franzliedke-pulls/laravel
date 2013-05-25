@@ -49,7 +49,7 @@
 
     <ul class="out-links">
         <li><a href="http://laravel.com">Official Website</a></li>
-        <li><a href="http://forums.laravel.com">Laravel Forums</a></li>
+        <li><a href="http://forums.laravel.io">Laravel Forums</a></li>
         <li><a href="http://github.com/laravel/laravel">GitHub Repository</a></li>
     </ul>
 </body>
